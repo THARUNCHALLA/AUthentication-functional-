@@ -1,0 +1,13 @@
+.Container{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    background-color:lightblue;
+    height:60px;
+    padding:10px;
+}
+nav{
+    margin:6px;
+    color:white;
+    font-size:20px;
+}
